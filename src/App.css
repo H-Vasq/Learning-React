@@ -1,4 +1,4 @@
-.App {
+/* .App {
   text-align: center;
 }
 
@@ -28,4 +28,18 @@
 
 .small {
   font-size: 0.75rem;
+} */
+
+body {
+  background-color: #e6f3ff;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.card-container {
+  background-color: #ffff;
+  border-radius: 6px;
+  overflow: hidden;
+  max-width: 300px;
+  margin: 100px auto;
+  box-shadow: 0 10px 40px -14px rgba(135, 144, 158, .6), 0 10px 40px -10px rgba(135, 144, 158, 0.6);
 }
